@@ -4,5 +4,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ## initialize
-enter npm install after cloning 
+Enter npm install after cloning 
 then you can use the scripts in the packege jason
